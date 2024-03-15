@@ -1,0 +1,44 @@
+/* Html é id = em CSS #
+Html é class = em CSS é . 
+*/
+
+body {
+    background-color: #9de9d0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+h1 {
+    color: #064f34;
+}
+
+#Principal {
+    text-align: center;
+    background-color: white;
+    color: #024029;
+
+}
+
+p {
+    color: #012619;
+}
+
+h2 {
+    color: rgba(23, 97, 23, 0.816);
+}
+
+.basico {
+    color: green;
+    font-weight: bold;
+}
+
+.intermediario {
+    color: rgba(255, 255, 0, 0.822);
+}
+
+.avançado {
+    color: red;
+}
+.destaque{
+  background-color: rgb(242, 242, 15);
+}
